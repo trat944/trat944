@@ -5,9 +5,6 @@ Passionate Software Developer
 🚀 MSD candidate at Assembler Institute of Technology.
 🌱 Learning TypeScript.
 
-## Programming languages and tools
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/TU_USUARIO/github-readme-stats)
-
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
 
