@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm [Tu Nombre] 👋
 
-<!--
-**trat944/trat944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate [Tecnología | Desarrollo de Software | Otro] Developer
 
-Here are some ideas to get you started:
+🚀 Actualmente trabajando en [Proyecto Actual | Compañía Actual]
+🌱 Aprendiendo [Lo que estás aprendiendo actualmente]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes y Herramientas
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/TU_USUARIO/github-readme-stats)
+
+## Estadísticas GitHub
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+## Encuéntrame en la web
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN/)
+- 🐦 [Twitter](https://twitter.com/TU_TWITTER)
+- 🌐 [Sitio Web](https://www.tusitio.com/)
+
+⭐️ ¡Gracias por visitar mi perfil! ⭐️
