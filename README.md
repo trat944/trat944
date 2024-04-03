@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="" alt="Jorge Revuelta" width="300" height="300" style="border-radius: 50%;" />
-</div>
-
-
 # Hi there, I'm Jorge Revuelta! 👋
 
 Welcome to my vibrant corner of the digital universe! I'm Jorge, a passionate software developer with a zest for innovation and a love for solving complex problems. Here's a glimpse into my world:
