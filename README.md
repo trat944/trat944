@@ -4,7 +4,6 @@ Welcome to my vibrant corner of the digital universe! I'm Jorge, a passionate so
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing an MSD degree at the Assembler Institute of Technology, where I'm diving deep into the world of software development.
 - 🌱 Always eager to expand my knowledge, I'm currently sharpening my skills in TypeScript to stay ahead of the curve.
 - 🎨 Former teacher, flight attendant, and chauffeur turned tech enthusiast, I bring a diverse set of experiences and skills to the table.
 - 💼 Proficient in creating dynamic applications using cutting-edge technologies like React, TypeScript, and JavaScript.
