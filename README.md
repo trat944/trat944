@@ -1,32 +1,69 @@
 # Hi there, I'm Jorge Revuelta! 👋
 
-Welcome to my vibrant corner of the digital universe! I'm Jorge, a passionate software developer with a zest for innovation and a love for solving complex problems. Here's a glimpse into my world:
+### Software Engineer | Backend & Automation Specialist
 
-## 🚀 About Me
+I am a Software Engineer based in Málaga, Spain, currently driving technical solutions at **Ebury**. I specialize in building scalable backend architectures, automating complex financial workflows, and integrating AI-driven document analysis systems on the **Google Cloud Platform (GCP)**.
 
-- 🌱 Always eager to expand my knowledge, I'm currently sharpening my skills in TypeScript to stay ahead of the curve.
-- 🎨 Former teacher, flight attendant, and chauffeur turned tech enthusiast, I bring a diverse set of experiences and skills to the table.
-- 💼 Proficient in creating dynamic applications using cutting-edge technologies like React, TypeScript, and JavaScript.
-- 🌟 Dedicated to leveraging technology to create impactful solutions that drive innovation and transform industries.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-revuelta/)!
+My background in **Aviation and Education** has equipped me with a unique edge in crisis management, adaptability, and clear communication within cross-functional Agile teams.
 
-## 💻 Projects Showcase
+---
 
-Take a peek at some of my most recent projects:
+## 🛠 Tech Stack & Tools
 
-- **[Blend Beyond](https://github.com/trat944/BlendBeyond)**: A revolutionary dating app redefining the dating experience with its sleek design and personalized matchmaking algorithms.
-- **[Hogar Mandala](https://github.com/trat944/react-eCommerce)**: Explore the beauty of mandala-inspired decor with this immersive e-commerce platform, featuring a curated selection of aesthetic products.
-- **[Rick and Morty API](https://github.com/trat944/rickandmorty)**: Explore the universe of Rick and Morty with this interactive web application! A perfect way to master APIs, endpoints and error handling.
+**Backend & Database**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🌟 Why Hire Me?
+**Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Github%20Actions-2088FF?style=flat-square)
 
-- 📚 Lifelong learner committed to continuous growth and development, always staying up-to-date with the latest technologies and trends.
-- 🚀 Proven track record of delivering high-quality projects on time.
-- 💡 Creative problem-solver with a knack for thinking outside the box and finding innovative solutions.
-- 🤝 Strong interpersonal skills and a collaborative mindset, making me a valuable asset to any team.
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 
-## ⭐️ Let's Connect!
+---
 
-Thanks for stopping by! If you're interested in collaborating or learning more about my work, feel free to reach out. Let's create something amazing together!
+## 💼 Professional Focus
 
+Currently at **Ebury (Fintech)**, I focus on:
+* **AI-Driven Systems:** Engineering document extraction engines using AI models with cross-provider consolidation and confidence scoring.
+* **Cloud Architecture:** Deploying microservices on **GCP Cloud Run** and managing data in **BigQuery**.
+* **Automation:** Streamlining employee lifecycles and client services via third-party API integrations (Salesforce, Jira, FenX).
 
+---
+
+## 🚀 Featured Project
+
+### [Blend Beyond](https://github.com/trat944/BlendBeyond)
+*Full Stack Dating Application with Real-Time Capabilities.*
+
+A robust application demonstrating end-to-end architecture ownership.
+* **Tech:** TypeScript, React, Node.js, MongoDB, Prisma.
+* **Key Features:**
+    * **Real-Time:** WebSockets (Socket.io) for instant chat and user status.
+    * **Complex Logic:** Geolocation-based matchmaking and filtered querying.
+    * **Security:** JWT Authentication and bcrypt hashing.
+    * **Data Integrity:** Strict schema modeling with Prisma and cascade deletion logic.
+
+---
+
+## 🌟 Why Me?
+
+* **Production Experience:** I don't just code; I ship reliable software in regulated Fintech environments.
+* **Problem Solver:** From debugging race conditions in async pipelines to handling operational crises in aviation, I keep a cool head and find solutions.
+* **Communication:** My past life as a teacher means I write documentation people actually read and bridge the gap between tech and product.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jorgerevueltacabello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-revuelta" height="30" width="40" /></a>
+<a href="https://jorgerevuelta.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" /></a>
+</p>
